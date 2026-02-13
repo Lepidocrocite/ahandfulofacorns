@@ -1,0 +1,18 @@
+{
+  "type":"tfc:heating",
+  "ingredient":
+  {
+    "type":"tfc:and",
+    "children":
+    [
+      {"item":"ahandfulofacorns:hickory_nut"},
+      {"type":"tfc:not_rotten"}
+    ]
+  },
+  "result_item":
+  {
+    "modifiers":[{"type":"tfc:copy_food"}],
+    "stack":{"count":1,"id":"ahandfulofacorns:roast_hickory_nut"}
+  },
+  "temperature":150.0
+}

@@ -1,0 +1,15 @@
+{
+  "item.ahandfulofacorns.chestnut": "Chestnut",
+  "item.ahandfulofacorns.roast_chestnut": "Roast Chestnut",
+  "item.ahandfulofacorns.acorn": "Acorn",
+  "item.ahandfulofacorns.roast_acorn": "Roast Acorn",
+  "item.ahandfulofacorns.pine_nut": "Pine Nut",
+  "item.ahandfulofacorns.hickory_nut": "Hickory Nut",
+  "item.ahandfulofacorns.roast_hickory_nut": "Roast Hickory Nut",
+  "itemGroup.ahandfulofacorns": "A Handful of Acorns",
+  "item.ahandfulofacorns.long_secateurs": "Long Secateurs",
+
+  "item.ahandfulofacorns.long_secateurs.fail.season": "Looks it's not the right season yet.",
+  "item.ahandfulofacorns.long_secateurs.fail.slip": "Oops, I shall try it again.",
+  "item.ahandfulofacorns.long_secateurs.fail.notvalid": "Seems this block won't grow any nut that eatable."
+}

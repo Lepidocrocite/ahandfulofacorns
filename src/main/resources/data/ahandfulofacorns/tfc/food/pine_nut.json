@@ -1,0 +1,11 @@
+{
+  "ingredient": {
+    "item": "ahandfulofacorns:pine_nut"
+  },
+  "hunger": 2,
+  "saturation": 0.3,
+  "water": 0,
+  "decay_modifier": 0.8,
+  "protein": 0.4,
+  "grain": 0.3
+}

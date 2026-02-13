@@ -1,0 +1,15 @@
+{
+  "item.ahandfulofacorns.chestnut": "栗子",
+  "item.ahandfulofacorns.roast_chestnut": "烤栗子",
+  "item.ahandfulofacorns.acorn": "橡子",
+  "item.ahandfulofacorns.roast_acorn": "烤橡子",
+  "item.ahandfulofacorns.pine_nut": "松子",
+  "item.ahandfulofacorns.hickory_nut": "山核桃",
+  "item.ahandfulofacorns.roast_hickory_nut": "烤山核桃",
+  "itemGroup.ahandfulofacorns": "一把橡子",
+  "item.ahandfulofacorns.long_secateurs": "长修枝剪",
+
+  "item.ahandfulofacorns.long_secateurs.fail.season": "看起来还没到成熟的季节呢。",
+  "item.ahandfulofacorns.long_secateurs.fail.slip": "哎呀，手滑了，我想我可以再试一次",
+  "item.ahandfulofacorns.long_secateurs.fail.notvalid": "看起来这个方块长不出什么能吃的坚果。"
+}

@@ -1,0 +1,11 @@
+{
+  "ingredient": {
+    "item": "ahandfulofacorns:roast_acorn"
+  },
+  "hunger": 2,
+  "saturation": 0.7,
+  "water": 0,
+  "decay_modifier": 0.5,
+  "protein": 0.4,
+  "grain": 0.6
+}

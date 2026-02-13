@@ -1,0 +1,11 @@
+{
+  "ingredient": {
+    "item": "ahandfulofacorns:roast_hickory_nut"
+  },
+  "hunger": 2,
+  "saturation": 0.9,
+  "water": 0,
+  "decay_modifier": 0.5,
+  "protein": 0.6,
+  "grain": 0.8
+}

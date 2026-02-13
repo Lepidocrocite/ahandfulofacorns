@@ -1,0 +1,12 @@
+{
+  "ingredient": {
+    "item": "ahandfulofacorns:chestnut"
+  },
+  "hunger": 2,
+  "saturation": 0.5,
+  "water": 0,
+  "decay_modifier": 0.8,
+  "protein": 0.2,
+  "grain": 0.2,
+  "vegetables": 0.2
+}
