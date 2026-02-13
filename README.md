@@ -1,2 +1,2 @@
 # ahandfulofacorns
-A handful of acorns
+Adds seasonal nuts harvestable with Long Secateurs to TerraFirmaCraft
