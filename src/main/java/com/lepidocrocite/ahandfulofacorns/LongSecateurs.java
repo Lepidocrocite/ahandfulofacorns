@@ -77,7 +77,7 @@ public class LongSecateurs extends Item {
                             dropItem = new ItemStack(ModItem.HICKORY_NUT.get());
                         } else if (blockName.contains("oak")) {
                             dropItem = new ItemStack(ModItem.ACORN.get());
-                        } else if (blockName.contains("white_cedar") || blockName.contains("pine")) {
+                        } else if (blockName.contains("pine")) {
                             Item tfcPinecone = BuiltInRegistries.ITEM.get(
                                     ResourceLocation.fromNamespaceAndPath("tfc", "groundcover/pinecone") //我服了这tfc的注册，我还得换种方法拿物品
                             );
